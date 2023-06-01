@@ -127,3 +127,5 @@ main{
     display: flex;
     flex-direction: column;
 }
+
+.greeting {text-align: center;}
